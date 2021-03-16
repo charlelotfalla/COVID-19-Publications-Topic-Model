@@ -14,23 +14,23 @@
 
 **--> Models_Orixe4UJnH Folder:**
 
-  --> Coherence.png
-  * Image of model coherence over number of topics used
+--> Coherence.png
+* Image of model coherence over number of topics used
 
-  --> Coherence.png
-  * Image of model coherence over number of topics used
+--> Coherence.png
+* Image of model coherence over number of topics used
 
-  --> dashboard_LDA_Tfidf.html
-  * LDA visualization dashboard
+--> dashboard_LDA_Tfidf.html
+* LDA visualization dashboard
 
-  --> document-topic.csv
-  * Document topic probability distribuition
+--> document-topic.csv
+* Document topic probability distribuition
 
-  --> word-topic.csv
-  * Word topic probability distribuition
+--> word-topic.csv
+* Word topic probability distribuition
 
-  --> word-topic.csv
-  * Word topic probability distribuition
+--> word-topic.csv
+* Word topic probability distribuition
 
 
 
