@@ -17,22 +17,28 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      <br />
       <ul>
         <li><a href="#visualization">Visualization</a></li>
       </ul>
     </li>
+    <br />
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <br />
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <br />
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <br />
     <li>
       <a href="#Usage">Usage</a>
       <ul>
       </ul>
     </li>
+    <br />
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
