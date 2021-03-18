@@ -50,6 +50,10 @@ The k with the highest coherence score is used to build the final model. The LDA
 
 Then LDAVis library is used to create a dashboard for topic visualizations.
 
+### COVID-19 Topic Model Visualization
+
+<a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -71,10 +75,7 @@ Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc
    pip install nbimporter lemmatizer ldamodel gensim pyLDAvis re nltk spacy pickle os scispacy random string
    ```
    
-<!-- COVID-19 Topic Model Visualization -->
-## COVID-19 Topic Model Visualization
 
-<a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
 
 <!-- USAGE -->
 ## Usage
