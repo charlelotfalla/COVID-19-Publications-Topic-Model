@@ -4,11 +4,10 @@
   <p align="center">
     <br/>
     <a href="https://github.com/charlelotfalla/COVID-19-Publications-Topic-Model"><strong>Explore the docs »</strong></a>
-    <br />
   </p>
 </p>
 
-
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
