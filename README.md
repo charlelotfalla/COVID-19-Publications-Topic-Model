@@ -18,6 +18,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
+    <ul>
+        <li><a href="#visualization">COVID-19 Topic Model Visualization</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -67,10 +69,13 @@ Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc
    ```sh
    pip install nbimporter lemmatizer ldamodel gensim pyLDAvis re nltk spacy pickle os scispacy random string
    ```
+   
+<!-- Visualization -->
+## LDA Topic Model Visualization
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 ## Usage
 
 This project can be used for any type of topic modeling in big sets of documents (publications, articles, news, etc...). It's useful the most in the medical field as the stemmer and lemmatizer used are more specific to medical data. A solution to this is replacing the medical-specific stemmar, SciSpacy, with a more general version, from NLTK. 
@@ -79,7 +84,7 @@ This project can be used for any type of topic modeling in big sets of documents
 <!-- CONTACT -->
 ## Contact
 
-Charle Lotfalla - [@charle_lotflla](https://twitter.com/charle_lotfalla) - charlelotfalla@gmail.com
+Charle Lotfalla - [@charle_lotfalla](https://twitter.com/charle_lotfalla) - charlelotfalla@gmail.com
 
 
 
