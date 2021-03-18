@@ -46,7 +46,7 @@ The number of topics, hyperparameter k, in the model is optimized using a gridse
 
 The k with the highest coherence score is used to build the final model. The LDA model is used on the dataset to create the Document-topic & topic-word probability distributions. 
 
-Then LDAVis library is used to create a dashboard for topic visualizations.
+PyLDAvis library is used to create a dashboard for topics visualization (Check link in Visualizations below).
 
 
 ### Data
