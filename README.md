@@ -42,19 +42,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
+The purpose of the project is to analyze the research findings trends in an extensive list of medical publications (Abstracts, Full-Text). The 
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Jupyter Notebook](https://jupyter.org/)
 
 
 <!-- GETTING STARTED -->
