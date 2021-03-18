@@ -17,9 +17,10 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-    </li>
     <ul>
         <li><a href="#visualization">COVID-19 Topic Model Visualization</a></li>
+       </ul>
+    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -70,10 +71,10 @@ Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc
    pip install nbimporter lemmatizer ldamodel gensim pyLDAvis re nltk spacy pickle os scispacy random string
    ```
    
-<!-- Visualization -->
+<!-- visualization -->
 ## LDA Topic Model Visualization
 
-
+<a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
 
 <!-- USAGE -->
 ## Usage
