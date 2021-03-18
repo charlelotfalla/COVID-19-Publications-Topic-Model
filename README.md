@@ -69,13 +69,11 @@ Entries: 7024 rows <br />
 
 To get a local copy up and running follow these simple steps.
 
-<br />
 
 ### Prerequisites
 
 Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc).
 
-<br />
 
 ### Installation
 
