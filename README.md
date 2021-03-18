@@ -17,28 +17,21 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <br />
       <ul>
         <li><a href="#visualization">Visualization</a></li>
       </ul>
     </li>
-    <br />
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <br />
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <br />
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <br />
     <li>
       <a href="#Usage">Usage</a>
       <ul>
       </ul>
     </li>
-    <br />
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -56,19 +49,26 @@ The k with the highest coherence score is used to build the final model. The LDA
 
 Then LDAVis library is used to create a dashboard for topic visualizations.
 
+<br />
+
 ### Visualization
 
 <a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
 
+<br />
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
+<br />
+
 ### Prerequisites
 
-Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc)
+Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc).
+
+<br />
 
 ### Installation
 
@@ -81,13 +81,14 @@ Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc
    pip install nbimporter lemmatizer ldamodel gensim pyLDAvis re nltk spacy pickle os scispacy random string
    ```
    
-
+<br />
 
 <!-- USAGE -->
 ## Usage
 
 This project can be used for any type of topic modeling in big sets of documents (publications, articles, news, etc...). It's useful the most in the medical field as the stemmer and lemmatizer used are more specific to medical data. A solution to this is replacing the medical-specific stemmar, SciSpacy, with a more general version, from NLTK. 
 
+<br />
 
 <!-- CONTACT -->
 ## Contact
