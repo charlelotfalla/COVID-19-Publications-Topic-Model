@@ -17,9 +17,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -42,14 +39,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The purpose of the project is to analyze the research findings trends in an extensive list of medical publications (Abstracts, Full-Text). The 
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+The purpose of the project is to analyze the research findings trends in an extensive list of medical publications (Abstracts, Full-Text). The data is extracted from PubMed.com in form of a csv. Then the data is cleaned, lemmatized, stemmed and then used to create a dictionary of either single phrases or multi-phrases. Then the topic model is designed using Latent Dirichlet Allocation. LDA allows each document (abstract) to be described by a distribution of topics and each topic is described by a distribution of words. 
 
+The number of topics, hyperparameter k, in the model is optimized using a gridsearch function with the scoring metric called 'Coherence Score'. Coherence score measures the degree of semantic similarity between high scoring words in each of the topics.
 
-### Built With
+The k with the highest coherence score is used to build the final model. The LDA model is used on the dataset to create the Document-topic & topic-word probability distributions. 
 
-* [Jupyter Notebook](https://jupyter.org/)
+Then LDAVis library is used to create a dashboard for topic visualizations.
 
 
 <!-- GETTING STARTED -->
@@ -59,21 +55,17 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc)
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/charlelotfalla/COVID-19-Publications-Topic-Model.git
    ```
-2. Install NPM packages
+2. Install Python packages
    ```sh
-   npm install
+   pip install nbimporter lemmatizer ldamodel gensim pyLDAvis re nltk spacy pickle os scispacy random string
    ```
 
 
@@ -81,19 +73,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+This project can be used for any type of topic modeling in big sets of documents (publications, articles, news, etc...). It's useful the most in the medical field as the stemmer and lemmatizer used are more specific to medical data. A solution to this is replacing the medical-specific stemmar, SciSpacy, with a more general version, from NLTK. 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Charle Lotfalla - [@charle_lotflla](https://twitter.com/charle_lotfalla) - charlelotfalla@gmail.com
 
 
 
