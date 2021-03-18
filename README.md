@@ -18,7 +18,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#COVID-19 Topic Model Visualization">COVID-19 Topic Model Visualization</a></li>
+        <li><a href="#visualization">Visualization</a></li>
       </ul>
     </li>
     <li>
@@ -50,7 +50,7 @@ The k with the highest coherence score is used to build the final model. The LDA
 
 Then LDAVis library is used to create a dashboard for topic visualizations.
 
-### COVID-19 Topic Model Visualization
+### Visualization
 
 <a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
 
