@@ -52,10 +52,10 @@ Then LDAVis library is used to create a dashboard for topic visualizations.
 
 ### Data
 
-Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-Copyright: Open-source
-Variables: pubmedID, year, title, abstract
-Entries: 7024 rows
+Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)__
+Copyright: Open-source__
+Variables: pubmedID, year, title, abstract__
+Entries: 7024 rows__
 
 
 ### Visualization
