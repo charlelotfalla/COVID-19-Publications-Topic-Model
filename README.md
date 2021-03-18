@@ -97,7 +97,8 @@ This project can be used for any type of topic modeling in big sets of documents
 <!-- CONTACT -->
 ## Contact
 
-Charle Lotfalla - [@charle_lotfalla](https://twitter.com/charle_lotfalla) - charlelotfalla@gmail.com
+Twitter: [@charle_lotfalla](https://twitter.com/charle_lotfalla)  <br />
+Email: charlelotfalla@gmail.com
 
 
 
