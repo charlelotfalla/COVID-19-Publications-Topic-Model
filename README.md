@@ -3,8 +3,7 @@
 
   <p align="center">
     <br />
-    <a href="http://github.com/github_username/charlelotfalla/COVID-19-Publications-Topic-Model"><strong>Explore the docs »</strong></a>
-    <br />
+    <a href="https://github.com/charlelotfalla/COVID-19-Publications-Topic-Model"><strong>Explore the docs »</strong></a>
     <br />
     <a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
   </p>
