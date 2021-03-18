@@ -17,9 +17,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-    <ul>
-        <li><a href="#visualization">COVID-19 Topic Model Visualization</a></li>
-       </ul>
+      <ul>
+        <li><a href="#COVID-19 Topic Model Visualization">COVID-19 Topic Model Visualization</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
