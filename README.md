@@ -7,7 +7,7 @@
   </p>
 </p>
 
-<br/>
+<br />
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -52,10 +52,10 @@ Then LDAVis library is used to create a dashboard for topic visualizations.
 
 ### Data
 
-Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)__
-Copyright: Open-source__
-Variables: pubmedID, year, title, abstract__
-Entries: 7024 rows__
+Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/) <br />
+Copyright: Open-source <br />
+Variables: pubmedID, year, title, abstract <br />
+Entries: 7024 rows <br />
 
 
 ### Visualization
