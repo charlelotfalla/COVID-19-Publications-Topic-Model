@@ -48,7 +48,6 @@ The k with the highest coherence score is used to build the final model. The LDA
 
 Then LDAVis library is used to create a dashboard for topic visualizations.
 
-<br />
 
 ### Data
 
