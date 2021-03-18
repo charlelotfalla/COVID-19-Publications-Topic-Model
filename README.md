@@ -71,8 +71,8 @@ Any python IDE or Code Editor (Spyder, Jupyter Notebook, Sublime text 3, ... etc
    pip install nbimporter lemmatizer ldamodel gensim pyLDAvis re nltk spacy pickle os scispacy random string
    ```
    
-<!-- visualization -->
-## LDA Topic Model Visualization
+<!-- COVID-19 Topic Model Visualization -->
+## COVID-19 Topic Model Visualization
 
 <a href="http://htmlpreview.github.io/?http://github.com/charlelotfalla/COVID-19-Publications-Topic-Model/blob/master/Models_Orixe4UJnH/dashboard_LDA_Tfidf.html">View Topic Model Visual</a>
 
