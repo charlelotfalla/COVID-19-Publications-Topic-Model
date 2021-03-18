@@ -17,6 +17,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#visualization">Visualization</a></li>
+        <li><a href="#data">Data</a></li>
       </ul>
     </li>
     <li>
@@ -48,6 +49,14 @@ The k with the highest coherence score is used to build the final model. The LDA
 Then LDAVis library is used to create a dashboard for topic visualizations.
 
 <br />
+
+### Data
+
+Source: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+Copyright: Open-source
+Variables: pubmedID, year, title, abstract
+Entries: 7024 rows
+
 
 ### Visualization
 
