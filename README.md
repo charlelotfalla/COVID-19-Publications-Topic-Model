@@ -16,8 +16,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#visualization">Visualization</a></li>
         <li><a href="#data">Data</a></li>
+        <li><a href="#visualization">Visualization</a></li>
       </ul>
     </li>
     <li>
