@@ -1,5 +1,5 @@
 
-<h1 align="center">COVID-19 Publications Topic Model</h1> <br/> July 2020 <br/>
+<h1 align="center">COVID-19 Publications Topic Model <br/> <h5 July 2020 <br/>
   <p align="center">
     <a href="https://github.com/charlelotfalla/COVID-19-Publications-Topic-Model"><strong>Explore the docs »</strong></a>
   </p>
