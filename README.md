@@ -1,5 +1,5 @@
 
-<h3 align="center">COVID-19 Publications Topic Model</h3>
+<h1 align="center">COVID-19 Publications Topic Model</h1>
 
   <p align="center">
     <br/>
